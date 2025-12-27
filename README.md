@@ -10,7 +10,6 @@ Minified version: [LiskelOS 2.2.1 Compact][3]
 
 Previous version: [LiskelOS 1.8][4] (Deprecated)
 
-([Optional libraries for LiskelOS here][5])
 
 ## Features
  * Basic lightweight file input and output library.
@@ -91,4 +90,3 @@ And much more! Just use the print feature above!
 [2]:https://github.com/cyntachs/LiskelOS/blob/master/src/liskel2.lua
 [3]:https://github.com/cyntachs/LiskelOS/blob/master/src/liskel2c.lua
 [4]:https://github.com/cyntachs/LiskelOS/blob/master/src/liskel.lua
-[5]:https://github.com/cyntachs/LiskelOS/blob/master/optional
